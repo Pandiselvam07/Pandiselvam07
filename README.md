@@ -16,12 +16,16 @@
 
 ---
 
-🚀 I'm a **Flutter Developer** from India passionate about building scalable and real-world apps with beautiful UI and clean architecture.
+🚀 I'm a **Flutter Full Stack Developer** who loves turning ideas into real-world apps — fast, clean, and beautifully designed.
 
-- 🧠 Exploring **FastAPI**, **PostgreSQL**, and **Cloud Functions**
-- 🛠 Skilled in **Riverpod**, **MVVM**, and **real-time apps**
-- 📬 Reach me at: **rpandiselvam07@@gmail.com**
-- ⚡ Fun fact: I build things before I fully know how, and then learn from the building 🤓
+- 💻 I build cross-platform solutions for **Mobile, Web, and Windows desktop** using Flutter.
+- 🔥 My backend expertise includes **Firebase**, **FastAPI**, and **PostgreSQL**, giving me full control from UI to database.
+- 🛠 I follow clean architecture with **Riverpod**, **MVVM**, and reactive patterns for real-time, scalable apps.
+- 🧠 Currently exploring **Cloud Functions**, API security, and custom backend integrations.
+- 💬 Reach me at: **rpandiselvam07@gmail.com**
+- ⚡ Fun fact: I often build first, learn by doing, and improve through hands-on iteration 🤓
+
+> 💡 Got an idea? I’d love to hear what you want to build!
 
 ---
 
