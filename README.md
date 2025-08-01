@@ -20,17 +20,6 @@
 
 ---
 
-### 🌟 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🎵 [Spotify Clone](https://github.com/Pandiselvam07/MusicApp) | Flutter + FastAPI app with background audio & user library | Flutter, Riverpod, FastAPI |
-| ☁️ [Weather App](https://github.com/Pandiselvam07/WeatherApp) | Realtime weather data with light/dark mode toggle | Flutter, API |
-| ✅ [To-Do List App](https://github.com/Pandiselvam07/todolist) | Task manager with Firebase sync | Flutter, Firebase |
-| 📝 [Notes App](https://github.com/Pandiselvam07/NotesApp) | Secure notes with email verification | Flutter, Firebase |
-
----
-
 ### 🧰 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -39,15 +28,6 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pandiselvam07&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pandiselvam07&theme=tokyonight"/>
 </p>
 
 ---
@@ -63,4 +43,11 @@
   <a href="https://pandiselvam-portfolio.web.app">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+</p>
+
+---
+
+### 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://github.com/Pandiselvam07/Pandiselvam07/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
