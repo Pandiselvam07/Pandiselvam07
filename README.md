@@ -2,7 +2,7 @@
 <!-- Trigger GitHub Actions -->
 
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="banner" />
+  <img src="banner.png" alt="banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Pandi Selvam</h1>
