@@ -1,46 +1,66 @@
-<h1 align="center">Hi 👋, I'm Pandi Selvam</h1>
-<h3 align="center">A passionate Flutter developer from India 🇮🇳</h3>
+<h1 align="center">👋 Hi, I'm Pandi Selvam</h1>
+<h3 align="center">Flutter Developer</h3>
 
-- 🔭 I’m currently working on **a Pharmacy Management System using Flutter + Firebase**
-
-- 🌱 I’m currently learning **FastAPI, PostgreSQL and Cloud Functions**
-
-- 👨‍💻 All of my projects are available at [github.com/Pandiselvam07](https://github.com/Pandiselvam07)
-
-- 💬 Ask me about **Flutter, Firebase, Riverpod, and MVVM architecture**
-
-- 📫 How to reach me: **pandiselvam.dev@gmail.com**
-
-- ⚡ Fun fact: I love building real-world apps that solve everyday problems!
+<p align="center">
+  <a href="mailto:rpandiselvam07@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/pandiselvam-r-316928250/">💼 LinkedIn</a> •
+  <a href="https://pandiselvam-portfolio.web.app/">🌐 Portfolio</a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+🚀 I'm a **Flutter Developer** from India passionate about building scalable and real-world apps with beautiful UI and clean architecture.
+
+- 🔭 Currently building a **Pharmacy Management System** using Flutter + Firebase
+- 💼 Working at **FoxTon Research Tech** as a Flutter Developer
+- 🧠 Exploring **FastAPI**, **PostgreSQL**, and **Cloud Functions**
+- 🛠 Skilled in **Riverpod**, **MVVM**, and **real-time apps**
+- 📬 Reach me at: **pandiselvam.dev@gmail.com**
+- ⚡ Fun fact: I build things before I fully know how, and then learn from the building 🤓
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🎵 [Spotify Clone](https://github.com/Pandiselvam07/MusicApp) | Flutter + FastAPI app with background audio & user library | Flutter, Riverpod, FastAPI |
+| ☁️ [Weather App](https://github.com/Pandiselvam07/WeatherApp) | Realtime weather data with light/dark mode toggle | Flutter, API |
+| ✅ [To-Do List App](https://github.com/Pandiselvam07/todolist) | Task manager with Firebase sync | Flutter, Firebase |
+| 📝 [Notes App](https://github.com/Pandiselvam07/NotesApp) | Secure notes with email verification | Flutter, Firebase |
+
+---
+
+### 🧰 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pandiselvam07&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pandiselvam07&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pandiselvam07&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pandiselvam07&theme=tokyonight"/>
 </p>
 
 ---
 
-### 🌐 Connect with me
-<p>
-  <a href="https://linkedin.com/in/pandiselvam07" target="_blank">
+### 📫 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/pandiselvam-r-316928250">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:pandiselvam.dev@gmail.com">
+  <a href="mailto:rpandiselvam07@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://pandiselvam-portfolio.web.app">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
