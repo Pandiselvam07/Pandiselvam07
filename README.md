@@ -22,8 +22,6 @@
 - 🔥 My backend expertise includes **Firebase**, **FastAPI**, and **PostgreSQL**, giving me full control from UI to database.
 - 🛠 I follow clean architecture with **Riverpod**, **MVVM**, and reactive patterns for real-time, scalable apps.
 - 🧠 Currently exploring **Cloud Functions**, API security, and custom backend integrations.
-- 💬 Reach me at: **rpandiselvam07@gmail.com**
-- ⚡ Fun fact: I often build first, learn by doing, and improve through hands-on iteration 🤓
 
 > 💡 Got an idea? I’d love to hear what you want to build!
 
