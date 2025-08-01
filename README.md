@@ -6,24 +6,23 @@
 <p align="center">
   <a href="mailto:rpandiselvam07@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/pandiselvam-r-316928250/">💼 LinkedIn</a> •
-  <a href="https://pandiselvam-portfolio.web.app/">🌐 Portfolio</a>
+  <a href="https://pandiselvam-portfolio.web.app/">🌐 Portfolio</a> •
+  <a href="https://www.instagram.com/pandi_selvam_07/">📸 Instagram</a>
 </p>
 
 ---
 
 🚀 I'm a **Flutter Developer** from India passionate about building scalable and real-world apps with beautiful UI and clean architecture.
 
-- 🔭 Currently building a **Pharmacy Management System** using Flutter + Firebase
-- 💼 Working at **FoxTon Research Tech** as a Flutter Developer
 - 🧠 Exploring **FastAPI**, **PostgreSQL**, and **Cloud Functions**
 - 🛠 Skilled in **Riverpod**, **MVVM**, and **real-time apps**
-- 📬 Reach me at: **pandiselvam.dev@gmail.com**
+- 📬 Reach me at: **rpandiselvam07@@gmail.com**
 - ⚡ Fun fact: I build things before I fully know how, and then learn from the building 🤓
 
 ---
 
 ### 🧰 Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
@@ -44,6 +43,9 @@
   </a>
   <a href="https://pandiselvam-portfolio.web.app">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/pandi_selvam_07/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
